@@ -1,8 +1,7 @@
 # Debt and Growth
 
 ## Abstract
-Quick overview and references to the original grad project.
-# TODO: Update.
+This project is derived from my graduate thesis on the relationship between external debt and economic growth in Kazakhstan. It adapts an economic growth model based on IMF research, using panel data from 4 countries to assess the impact of external debt on economic growth. This exercise demonstrates data utilization, model building, and curve fitting in Python. However, its results have limited economic significance due to small number of variables and the overall shift in the Kazakh economy towards oil export in the late 2000s, making the model less relevant from the economic standpoint.
 
 ## Background
 Moderate levels of external debt, utilized to fund productive investments, are likely to contribute to economic growth. However, exceeding specific thresholds in indebtedness may impede growth. According to an IMF study, there are two crucial junctures: one where increased debt hampers growth and another where it detrimentally affects growth, ultimately worsening the economic situation of the country.
