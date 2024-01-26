@@ -108,11 +108,6 @@ We created two scenarios, both assuming average indicator values for the next 10
 The accumulated growth over next 10 years in the optimistic scenario is 18% higher than in the pessimistic scenario.
 
 
-## Conclusions
-TODO: Add here.
-
-
-
 ## References
  1. PyFlux: A Python Library for Time Series Analysis and Forecasting. Version 0.4.2. University College London. Available at: https://github.com/bashtage/pyflux (accessed January 15, 2022).
  2. Pattillo, C. A., Poirson, H., & Ricci, L. (2002). External Debt and Growth. IMF Working Paper No. 02/69. International Monetary Fund, Research Department. [Washington, D.C.]. Retrieved from https://digitallibrary.un.org/record/470407?ln=en
